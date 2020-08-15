@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Directory
+TP/Binaries/*
+TP/DerivedDataCache/*
+TP/Intermediate/*
+TP/Saved/*
