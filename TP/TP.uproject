@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7FEEFB0F-44FE-20EB-4EDF-53AEEFBD6283}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TP",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"OnlineSubsystemUtils"
+			]
+		}
+	]
+}
