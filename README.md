@@ -8,3 +8,7 @@ Unreal Engine 4 ThirdPerson C++ Demo
 
 ![image](https://github.com/Jeff-shen/TPDemo/blob/master/demo.png)
 
+## Lua example
+![image](https://github.com/Jeff-shen/TPDemo/blob/master/LuaGameMode.png)
+![image](https://github.com/Jeff-shen/TPDemo/blob/master/LuaGameMode2.png)
+
