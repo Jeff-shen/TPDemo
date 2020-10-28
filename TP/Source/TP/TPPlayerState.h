@@ -2,19 +2,19 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "TP.h"
 #include "GameFramework/PlayerState.h"
 #include "TPPlayerState.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
-class TP_API ATPPlayerState : public APlayerState
+class  ATPPlayerState : public APlayerState
 {
 	GENERATED_BODY()
-	
-	
-	
-	
+
+
+
+
 };

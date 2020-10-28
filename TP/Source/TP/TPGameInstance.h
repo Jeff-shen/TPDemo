@@ -2,19 +2,19 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "TP.h"
 #include "Engine/GameInstance.h"
 #include "TPGameInstance.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
-class TP_API UTPGameInstance : public UGameInstance
+class  UTPGameInstance : public UGameInstance
 {
 	GENERATED_BODY()
-	
-	
-	
-	
+
+
+
+
 };

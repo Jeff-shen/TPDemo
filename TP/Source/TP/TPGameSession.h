@@ -2,19 +2,19 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "TP.h"
 #include "GameFramework/GameSession.h"
 #include "TPGameSession.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
-class TP_API ATPGameSession : public AGameSession
+class  ATPGameSession : public AGameSession
 {
 	GENERATED_BODY()
-	
-	
-	
-	
+
+
+
+
 };

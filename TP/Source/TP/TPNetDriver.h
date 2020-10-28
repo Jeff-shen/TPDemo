@@ -2,19 +2,19 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "TP.h"
 #include "IpNetDriver.h"
 #include "TPNetDriver.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
-class TP_API UTPNetDriver : public UIpNetDriver
+class  UTPNetDriver : public UIpNetDriver
 {
 	GENERATED_BODY()
-	
-	
-	
-	
+
+
+
+
 };

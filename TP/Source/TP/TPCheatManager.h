@@ -2,19 +2,19 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "TP.h"
 #include "GameFramework/CheatManager.h"
 #include "TPCheatManager.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
-class TP_API UTPCheatManager : public UCheatManager
+class  UTPCheatManager : public UCheatManager
 {
 	GENERATED_BODY()
-	
-	
-	
-	
+
+
+
+
 };

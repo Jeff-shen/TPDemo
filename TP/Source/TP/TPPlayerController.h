@@ -2,19 +2,19 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "TP.h"
 #include "GameFramework/PlayerController.h"
 #include "TPPlayerController.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
-class TP_API ATPPlayerController : public APlayerController
+class  ATPPlayerController : public APlayerController
 {
 	GENERATED_BODY()
-	
-	
+
+
 public:
 	ATPPlayerController(const FObjectInitializer& ObjectInitializer);
 

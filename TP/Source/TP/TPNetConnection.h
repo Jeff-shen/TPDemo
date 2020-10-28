@@ -2,19 +2,19 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "TP.h"
 #include "IpConnection.h"
 #include "TPNetConnection.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
-class TP_API UTPNetConnection : public UIpConnection
+class  UTPNetConnection : public UIpConnection
 {
 	GENERATED_BODY()
-	
-	
-	
-	
+
+
+
+
 };

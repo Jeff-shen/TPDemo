@@ -2,19 +2,19 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "TP.h"
 #include "GameFramework/SpectatorPawn.h"
 #include "TPSpectatorPawn.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
-class TP_API ATPSpectatorPawn : public ASpectatorPawn
+class  ATPSpectatorPawn : public ASpectatorPawn
 {
 	GENERATED_BODY()
-	
-	
-	
-	
+
+
+
+
 };

@@ -2,19 +2,19 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "TP.h"
 #include "GameFramework/HUD.h"
 #include "TPHUD.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
-class TP_API ATPHUD : public AHUD
+class  ATPHUD : public AHUD
 {
 	GENERATED_BODY()
-	
-	
-	
-	
+
+
+
+
 };
